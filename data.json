@@ -1,7 +1,6 @@
 {
   "title": "The Basics",
   "description": "Your app fetched this from a remote endpoint!",
-  "image":"https://github.com/Jakdeveloper1/TestData/blob/ae314b793763c5347c527a35eae0d6a8745d132f/Natural-Link_icon.png",
   "movies": [
     { "id": "1", "title": "Star Wars", "releaseYear": "1977" },
     { "id": "2", "title": "Back to the Future", "releaseYear": "1985" },
